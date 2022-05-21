@@ -1,0 +1,68 @@
+########################### services ############################
+services:
+  # service item loop
+  - title : "Residential & Commercial Properties"
+    icon : "ti-desktop" # themify icon pack: https://themify.me/themify-icons
+    content : "We clear out exclusively residential & commercial properties."
+
+  # service item loop
+  - title : "Customer Specification"
+    icon : "ti-layers" # themify icon pack: https://themify.me/themify-icons
+    content :  "We will work to your specification. You explain what you want done and how you want it done, and we will comply."
+
+  # service item loop
+  - title : "A Full Cleaning Service"
+    icon : "ti-bar-chart" # themify icon pack: https://themify.me/themify-icons
+    content : "If you would like the property left immaculate, we can provide a service to professional standards."
+
+  # service item loop
+  - title : "Conscious Recycling"
+    icon : "ti-vector" # themify icon pack: https://themify.me/themify-icons
+    content : "In principle we don't destroy things; through local charity shops, car-boot sales and so forth, we continue the lifecycle of goods as much as possible."
+
+  # service item loop
+  - title : "Waste Removal"
+    icon : "ti-android" # themify icon pack: https://themify.me/themify-icons
+    content : "We have a waste licence and are registered with the environmental agency; all rubbish is correctly disposed of. If the job requires it, we can hire skips of course."
+
+  # service item loop
+  - title : "Sensible Quotations "
+    icon : "ti-pencil-alt" # themify icon pack: https://themify.me/themify-icons
+    content : "My quotations are neither extravagant nor silly. I will give you what I believe is a reasonable quotation and it is even possible for me to offer to pay you for the jobload."
+
+  # service item loop
+  - title : "Strict Confidentiality"
+    icon : "ti-bar-chart" # themify icon pack: https://themify.me/themify-icons
+    content :  "We ensure total confidentiality. Our staff are impeccable, and any private effects or documentation will be returned to you, or shredded and disposed of, as required. While we have tenure of a property, it is in safe hands."
+
+  # service item loop
+  - title :  "FAQs"
+    icon : "ti-vector" # themify icon pack: https://themify.me/themify-icons
+    content : "If there's anything not covered, don't hesitate to ring and we can discuss whatever is necessary. We are pretty flexible and understanding, and obviously we will try to accomodate you in respect of any particular requests."
+
+  # service item loop
+  - title : "Contractual Availablity"
+    icon : "ti-android" # themify icon pack: https://themify.me/themify-icons
+    content : "We can partner with estate agents, landlords & solicitors."
+
+
+######################### pricing #####################################
+pricing:
+  enable : false
+  # pricing item comes from "pricing.yml" file
+
+######################## Service step #################################
+steps:
+  enable : false
+  step:
+    # step loop
+    - title : "Discuss with us"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart"
+
+    # step loop
+    - title : "Choose your perfect plan"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart"
+
+    # step loop
+    - title : "Start your project"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart"

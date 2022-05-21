@@ -1,0 +1,56 @@
+############################### About #################################
+about:
+  enable: true
+  title : "We are here to make challenging times less stressful"
+  content : "We've been based in the Bournemouth & Poole area for 15 years,
+  and offer a local Dorset service, (potentially neighbouring counties as well). "
+  about_item:
+    # about item loop
+    - title : "More than just boxes"
+      image : "images/about/bg-1.jpg"
+      content : "Every job is different. Sometimes we have clients who are distressed following a decease, some clients can be extremely distressed dealing with an elderly parent. We aim to be not just reliable, but sympathetic to your circumstances."
+
+    # about item loop
+    - title : "How we work"
+      image : "images/about/about.jpg"
+      content : "We generally work in small teams of 2 or 3, although if a property needs to be fully cleaned, this can be managed by my wife’s team. My normal practice is to come out and inspect the potential job with you, and offer you a price that is hopefully agreeable to both of us, obviously taking into account any particular requirements you might have. (Specific deadlines, items you need preserved or found, items you require delivered elsewhere, and so forth)."
+    # about item loop
+    - title : "My Values"
+      image : "images/about/home-8.jpg"
+      content : "I have over 20 years experience of moving things for people, and I run any house clearance exactly how I would expect my own house to be cleared. I have a very strong work ethic. Either [HERE](https://www.shiply.com/transport-provider/bazthevan) or scroll down for my Shiply backstory."
+
+##################### Funfacts ######################################
+funfacts:
+  enable : false
+  bg_image : "images/bg/banner-1.jpg"
+  # funfact item comes from "data/**/homepage.yml" file.
+
+############################# Team ##################################
+team:
+  enable: false
+  # team content comes from "data/**/homepage.yml" file
+
+############################ Testimonial ############################
+testimonial:
+  enable : true
+  bg_image : "images/bg/about-modern-img-1.jpg"
+  testimonial_item:
+    # testimonial item loop
+    - name : "Phil Potter"
+      designation : "Pub Manager"
+      content: "Don't hesitate to use Baz, he never, ever, lets anyone down."
+
+    # testimonial item loop
+    - name : "Rich Blevins"
+      designation : "Bournemouth Real Estator"
+      content: "I've worked with baz for several years and his is a stellar service. Highly recommended."
+
+    # testimonial item loop
+    - name : "Jill Halfpenny"
+      designation : "Aeronautic Systems Manager"
+      content: "What a nice fellow Baz is. He has helped us twice now, and he always comes up trumps, no pun intended."
+
+######################### clients logo ##################################
+clients_logo:
+  enable : false
+  # clients logo comes from "config.toml" file.
