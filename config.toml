@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://bournemouthhouseclearance.uk/"
+baseURL = "http://examplesite.org"
 title = "Baz's Bournemouth House Clearance Services"
 theme = "enov-hugo"
 # post pagination
