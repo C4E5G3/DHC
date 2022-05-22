@@ -102,7 +102,7 @@ email = "baccouriers@hotmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # your id
+google_analytics_id = "" # your id
 # search
 search = true
 
@@ -123,10 +123,10 @@ link = "contact"
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "50.734505"
+map_longitude = "-1.816954"
 map_marker = "images/marker.png"
 
 ######################### Clients logo ################################
