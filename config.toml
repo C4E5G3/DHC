@@ -75,17 +75,6 @@ name = "Contact Me"
 URL = "contact"
 weight = 0
 
-[[menu.footer]]
-name = "Services"
-URL = "service"
-weight = 1
-
-[[menu.footer]]
-name = "About Us"
-URL = "about"
-weight = 2
-
-
 
 #################### default parameters ################################
 [params]
