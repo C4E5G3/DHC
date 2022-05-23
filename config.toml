@@ -85,7 +85,7 @@ top_header = true
 description = "We remove all unwanted items, including waste, quickly and often at short notice; we are a friendly, reliable team"
 author = "Marcus"
 # contact info
-address = "Unit 5, 1105 Christchurch Rd, Bournemouth, BH76BQ"
+address = "92 Church Rd, Ferndown, BH229EX"
 phone = "+44 7793251677"
 email = "baccouriers@hotmail.com"
 # contact form action
@@ -114,8 +114,8 @@ link = "contact"
 [params.map]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "50.734505"
-map_longitude = "-1.816954"
+map_latitude = "50.8057144"
+map_longitude = "-1.9001363"
 map_marker = "images/marker.png"
 
 ######################### Clients logo ################################
