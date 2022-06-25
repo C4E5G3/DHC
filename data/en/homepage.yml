@@ -2,7 +2,7 @@
 banner:
   enable : true
   subtitle : "Baz's Bournemouth House Clearance"
-  title : "We cover Bournemouth & Poole, (and beyond), and have a well-earned reputation for professionalism"
+  title : "We cover Bournemouth and Poole and have a well-earned reputation for professionalism"
 
   # solid button
   button_solid:
