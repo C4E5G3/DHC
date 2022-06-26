@@ -2,7 +2,7 @@
 services:
   # service item loop
   - title : "Residential & Commercial Properties"
-    icon :   "ti-home"            # themify icon pack: https://themify.me/themify-icons
+    icon :   "ti-home"         # themify icon pack: https://themify.me/themify-icons
     content : "We clear out exclusively residential & commercial properties."
 
   # service item loop
@@ -12,7 +12,7 @@ services:
 
   # service item loop
   - title : "A Full Cleaning Service"
-    icon : "ti-face-smile" # themify icon pack: https://themify.me/themify-icons
+    icon : "ti-brush" # themify icon pack: https://themify.me/themify-icons
     content : "If you would like the property left immaculate, we can provide a service to professional standards."
 
   # service item loop
