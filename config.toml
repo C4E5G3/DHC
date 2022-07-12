@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://bournemouthhouseclearance.uk/"
-title = "Baz's Bournemouth House Clearance Services"
+baseURL = "https://dorsethouseclearance.uk/"
+title = "DHC | Dorset House Clearance"
 theme = "enov-hugo"
 # post pagination
 paginate = "6"
@@ -86,11 +86,11 @@ top_header = true
 description = "We remove all unwanted items, including waste, quickly and often at short notice; we are a friendly, reliable team"
 author = "Marcus"
 # contact info
-address = "1105 Christchurch Rd, Bournemouth, BH7 6BQ"
-phone = "+44 7793251677"
-email = "baccouriers@hotmail.com"
+address = "92 Church Rd, Ferndown, BH22 9EX"
+phone = "+44 78941 42106"
+email = "info@dorsethouseclearance.uk"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xyyoobnz" # contact form works with https://formspree.io
 # Google Analitycs
 google_analytics_id = "" # your id
 # search
@@ -113,10 +113,10 @@ link = "contact"
 
 # google map
 [params.map]
-enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "50.8057144"
-map_longitude = "-1.9001363"
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyDB_xkO2f5CYGaUbqseFk3RqmFBmM-Jx_A"
+map_latitude = "50.80571587320383"
+map_longitude = "-1.8982588006637635"
 map_marker = "images/marker.png"
 
 ######################### Clients logo ################################
@@ -162,4 +162,4 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Theme by Themefisher"

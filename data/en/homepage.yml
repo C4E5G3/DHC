@@ -1,7 +1,7 @@
 ################################## Banner #################################
 banner:
   enable : true
-  subtitle : "Baz's Bournemouth House Clearance"
+  subtitle : "Dorset House Clearance"
   title : "We cover Bournemouth and Poole and have a well-earned reputation for professionalism"
 
   # solid button
