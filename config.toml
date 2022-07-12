@@ -79,7 +79,7 @@ weight = 0
 #################### default parameters ################################
 [params]
 #92x30 px
-logo = "images/logo1.png"
+logo = "images/logo5.png"
 # top header
 top_header = true
 # Meta data
