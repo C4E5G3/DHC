@@ -41,14 +41,14 @@ testimonial:
       content: "Really friendly and reliable. Helped me out massively in a time of need. Went above and beyond to help me and I am so grateful. Bazzer will go out of his way to help you so I'd definitely recommend this service!!"
 
     # testimonial item loop
-    - name : "Rich Blevins"
-      designation : "Bournemouth Real Estator"
-      content: "I've worked with baz for several years and his is a stellar service. Highly recommended."
+    - name : "Maureen Young"
+      designation : "Captain Of Ferndown Golf Club"
+      content: "Awaiting review"
 
     # testimonial item loop
-    - name : "Jill Halfpenny"
-      designation : "Aeronautic Systems Manager"
-      content: "What a nice fellow Baz is. He has helped us twice now, and he always comes up trumps, no pun intended."
+    - name : "Kevin P"
+      designation : "Ferndown"
+      content: "Awaiting review"
 
 ######################### clients logo ##################################
 clients_logo:
