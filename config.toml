@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://dorsethouseclearance.uk/"
+baseURL = "https://dhc-li0d.onrender.com"
 title = "DHC | Dorset House Clearance"
 theme = "enov-hugo"
 # post pagination
